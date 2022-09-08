@@ -1,4 +1,4 @@
-#loto
+#loto!!!
 answer = " "
 while answer not in ["Yes", "yes", "Y", "y", "No", "no", "N", "n"]: 
     answer = input("Let's play an israeli Loto? (Y)es or (N)o\n")
