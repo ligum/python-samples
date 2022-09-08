@@ -1,4 +1,4 @@
-  
+#how to import pic from the web into tree  
 import os
 os.mkdir('C:/vova')
 from importlib.resources import path
